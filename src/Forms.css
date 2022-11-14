@@ -1,0 +1,38 @@
+p{
+    color: crimson;
+    font-size: 10px;
+    position: relative;
+    top: -65px;
+    left: 110px;
+    
+}
+
+input {
+
+margin: -10px;
+padding: 10px 10px;
+width: 35%;
+border: 1px solid #989898;
+border-radius: 10px;
+}
+
+label{
+ position: absolute;
+ 
+ left: 175px;
+}
+
+input[type=submit]{
+    background-color:coral;
+    width: 20%;
+    border: none;
+    
+}
+
+input[type=submit]:hover{
+    background-color: saddlebrown;
+    cursor: pointer;
+}
+
+
+
